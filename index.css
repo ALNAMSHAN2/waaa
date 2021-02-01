@@ -1,0 +1,139 @@
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/33.png);
+   background-attachment: scroll;
+   background-position: left top;
+   background-repeat: no-repeat;
+   background-size: المحتوى;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   -webkit-animation: animate-flash 500ms linear 0ms infinite normal both;
+   -moz-animation: animate-flash 500ms linear 0ms infinite normal both;
+   animation: animate-flash 500ms linear 0ms infinite normal both;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+@media only screen and (max-width: 969px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/33.png);
+   background-attachment: fixed;
+   background-position: left top;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+#wb_Image1
+{
+   left: 250px !important;
+   top: 180px !important;
+   width: 190px !important;
+   height: 71px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Image2
+{
+   left: 60px !important;
+   top: 180px !important;
+   width: 190px !important;
+   height: 71px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Image3
+{
+   left: 250px !important;
+   top: 270px !important;
+   width: 190px !important;
+   height: 71px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Image4
+{
+   left: 60px !important;
+   top: 270px !important;
+   width: 190px !important;
+   height: 71px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Image5
+{
+   left: 145px !important;
+   top: 411px !important;
+   width: 190px !important;
+   height: 59px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+#wb_Image6
+{
+   left: 222px !important;
+   top: 470px !important;
+   width: 37px !important;
+   height: 30px !important;
+   visibility: visible !important;
+   display: inline !important;
+}
+}
